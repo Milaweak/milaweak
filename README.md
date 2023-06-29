@@ -12,7 +12,8 @@
 <p align="center">
   <img src="https://img.shields.io/badge/age-32-yellow.svg" alt="Age">
   <img src="https://img.shields.io/badge/loves-Front--end-orange.svg" alt="Loves Front-end">
-  <img src="https://img.shields.io/badge/language-English-blue.svg" alt="Language">
+  <img src="https://img.shields.io/badge/language-English%20%7C%20French-blue.svg" alt="Language">
+  <img src="https://img.shields.io/badge/badge-Cookies%20Master-red.svg" alt="Cookies Master">
 </p>
 
 ## 🎨 About Me
@@ -21,6 +22,8 @@
 - 💻 Currently learning HTML, CSS, JS, React, PhP (Symfony, Laravel) to bring my ideas to life.
 - 🌱 Excited to collaborate and learn from fellow developers in the community.
 - 📚 Constantly exploring new design trends and best practices.
+- 🧁 Proud "Cookies Master" - I can whip up delicious treats in the kitchen!
+
 
 ## 🚀 My Projects
 
