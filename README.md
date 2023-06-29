@@ -2,7 +2,7 @@
 <h1 align="center">🌟 Hi, I'm Mila! 🌟</h1>
 
 <p align="center">
-  <img src="(https://imgur.com/a/44GA9a0)" alt="ewokface" width="200" height="200">
+  <img src="(https://i.imgur.com/Q1Zj5AN.png)" alt="ewokface" width="200" height="200">
 </p>
 
 <p align="center">
