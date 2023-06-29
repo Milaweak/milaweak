@@ -2,7 +2,7 @@
 <h1 align="center">🌟 Hi, I'm Mila! 🌟</h1>
 
 <p align="center">
-  <img src="https://www.clipartmax.com/middle/m2H7i8H7H7K9H7d3_sensible-world-icon-star-wars-ewok-avatar/" alt="ewokface" width="200" height="200">
+  <img src="(https://imgur.com/a/44GA9a0)" alt="ewokface" width="200" height="200">
 </p>
 
 <p align="center">
