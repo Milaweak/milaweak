@@ -12,6 +12,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/age-32-yellow.svg" alt="Age">
   <img src="https://img.shields.io/badge/loves-Front--end-orange.svg" alt="Loves Front-end">
+  <img src="https://img.shields.io/badge/loves-Illustration-pink.svg" alt="Loves Illustration">
   <img src="https://img.shields.io/badge/language-English%20%7C%20French-blue.svg" alt="Language">
   <img src="https://img.shields.io/badge/badge-Cookies%20Master-red.svg" alt="Cookies Master">
 </p>
@@ -19,6 +20,7 @@
 ## 🎨 About Me
 
 - 🌈 Passionate about creating visually appealing and user-friendly websites.
+- 🎨 (Talented?) illustrator specializing in creating humoristic doodles and sci-fi fictions.
 - 💻 Currently learning HTML, CSS, JS, React, PhP (Symfony, Laravel) to bring my ideas to life.
 - 🌱 Excited to collaborate and learn from fellow developers in the community.
 - 📚 Constantly exploring new design trends and best practices.
